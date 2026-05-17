@@ -4,11 +4,14 @@ import SwiftUI
 struct DronaApp: App {
 
     init() {
-        print("App Started Successfully")
+
+        print("Drona Started Successfully")
     }
 
     var body: some Scene {
+
         WindowGroup {
+
             ContentView()
         }
     }
